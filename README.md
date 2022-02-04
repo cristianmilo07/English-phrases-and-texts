@@ -16,3 +16,11 @@ what's your points? | De q hablas
 is that what you think? | usted piensa eso
 new captan alert | alerta de nuevo capitan
 let's see | dejeme ver
+i love that guy | amo a ese hombre
+a year ago, my wife and i had twin baby girls | hace un año, mi esposa y yo tuvimos gemelas
+i'm fine | estoy bn
+but they make good coffee| pero ellos hacen buen cafe
+now the good ones | ahora los buenos
+tough, smart, hard to read | dura, lista dificil de entender
+
+ 
