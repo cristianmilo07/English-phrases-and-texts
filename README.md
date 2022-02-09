@@ -22,5 +22,25 @@ i'm fine | estoy bn
 but they make good coffee| pero ellos hacen buen cafe
 now the good ones | ahora los buenos
 tough, smart, hard to read | dura, lista dificil de entender
+This job is eating me alive. | Este trabajo me está comiendo vivo.
 
- 
+
+I can't breathe anymore. | ya no puedo respirar 
+I spent all these years trying to be the good guy, | Pasé todos estos años tratando de ser el chico bueno,
+the man in the white hat. | el hombre del sombrero blanco.
+I'm not becoming like them.| No me estoy volviendo como ellos.|
+I am them. | yo soy ellos | 
+Hey! What are you doing, weirdo? | ¡Oye! ¿Qué estás haciendo, bicho raro? |
+I'm doing the best speech from Donnie Brasco. | Estoy dando el mejor discurso de Donnie Brasco. |
+Or actually, | O en realidad, 
+ten of me are doing the best speech from Donnie Brasco. | diez de mí están haciendo el mejor discurso de Donnie Brasco. |
+What's up? | ¿Qué sucede? | 
+Get it together, man. Okay? | Consíguelo, hombre. ¿Okey? |
+So the store was hit about two hours ago. | Así que la tienda fue asaltada hace unas dos horas. |
+They took mostly tablets,laptops, and cameras. | Se llevaron principalmente tabletas, computadoras portátiles y cámaras. |
+whoever had access to the store. | quienquiera que tuviera acceso a la tienda. |
+I'd also like to apologize for my partner. | También me gustaría disculparme por mi pareja. |
+His parents didn't give him enough attention. | Sus padres no le prestaron suficiente atención. |
+I already solved the case. | Ya resolví el caso. |
+We're looking for three white males, | Estamos buscando tres hombres blancos, |
+one of whom has sleeve tats on both arms. | uno de los cuales tiene tatuajes de manga en ambos brazos. |
