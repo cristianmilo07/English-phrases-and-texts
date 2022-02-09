@@ -24,6 +24,7 @@ now the good ones | ahora los buenos
 tough, smart, hard to read | dura, lista dificil de entender
 This job is eating me alive. | Este trabajo me está comiendo vivo.
 
+First Header  | Second Header
 ------------- | -------------
 I can't breathe anymore. | ya no puedo respirar 
 I spent all these years trying to be the good guy, | Pasé todos estos años tratando de ser el chico bueno,
