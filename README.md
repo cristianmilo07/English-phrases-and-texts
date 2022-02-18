@@ -60,7 +60,7 @@ so you're gonna call me out in front of everyone? | entonces me vas a llamar ¿e
 Good idea. Everyone? | Buena idea. ¿Todo el mundo?
 Okay, fine. I was three minutes late. | Bien vale. Llegué tres minutos tarde.
 I'm sorry for doing one thing wrong. | lo siento por hacer una cosa mal
-- Oh, it's more than one thing. | - Oh, es más de una cosa.
+Oh, it's more than one thing. | - Oh, es más de una cosa.
 Let's start with the Kristov murder. | Empecemos con el asesinato de Kristov.
 It was an amazing solve. | Fue una solución increíble.
 I got him to confess in 20 minutes. | Logré que confesara en 20 minutos.
