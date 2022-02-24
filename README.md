@@ -1,72 +1,78 @@
+# Curso-de-Ingl-s-para-Principiantes
+9. What time is it?
 
-# English-phrases-and-texts
-
-![](https://previews.123rf.com/images/aniwhite/aniwhite1604/aniwhite160400024/56008841-concepto-de-estudiar-ingl%C3%A9s-o-de-viaje-frase-habla-usted-ingl%C3%A9s-en-frente-de-la-bandera-brit%C3%A1nica-.jpg)
-First Header  | Second Header
+What time is it?  | Que hora es
 ------------- | -------------
-dont walk away from me  | No se aleje de mi
-would you do the honors | Haces los honores
-I hate this | Odio esto
-body was found by the cleaning lady | El cuerpo lo encontro la señora de la limpieza
-wait, tell us about the new capitan | Espere hablemos del oficial al mando
-dismissed | pude irse
-on your marks, get, set... | en sus marcas listo fuera
-What the hell's going on around here? | q demonios pasa aquí
-what's your points? | De q hablas
-is that what you think? | usted piensa eso
-new captan alert | alerta de nuevo capitan
-let's see | dejeme ver
-i love that guy | amo a ese hombre
-a year ago, my wife and i had twin baby girls | hace un año, mi esposa y yo tuvimos gemelas
-i'm fine | estoy bn
-but they make good coffee| pero ellos hacen buen cafe
-now the good ones | ahora los buenos
-tough, smart, hard to read | dura, lista dificil de entender
-This job is eating me alive. | Este trabajo me está comiendo vivo.
+It’s 9:14 P.M. (You can also say "it’s 09:14 at night) |
+It’s 7:30 P.M. (You can also say "it’s seven thirty at night) |
+It’s 4:30 A.M. (You can also say "it’s four thirty in the morning) |
+I’ts 3:12 P.M. (You can also say "it’s three twelve in the afternoon) |
+Lunes | Monday
+Martes | Tuesday
+Miercoles | Wednesday
+Jueves | Thursday
+Viernes | Friday
+Sabado | Saturday
+Domingo | Sunday
+Days of the week and prepositions of time |
+I. Look at the schedule and complete the sentence with the correct preposition of time: in, on or at. |
+I go to the library on Saturday in the morning.|
+I go to work on Monday in the morning. |
+I go to the bank on Tuesday at the afternoon.|
+I go to school on Wednesday in the morning.|
+I go to the gym on Thursday at night.|
+I go to the restaurant on friday in the evening|
+I go to the park on sunday in the afternoon|
 
-First Header  | Second Header
+formal and informal greetings | a
 ------------- | -------------
-I can't breathe anymore. | ya no puedo respirar 
-I spent all these years trying to be the good guy, | Pasé todos estos años tratando de ser el chico bueno,
-the man in the white hat. | el hombre del sombrero blanco.
-I'm not becoming like them.| No me estoy volviendo como ellos.|
-I am them. | yo soy ellos | 
-Hey! What are you doing, weirdo? | ¡Oye! ¿Qué estás haciendo, bicho raro? |
-I'm doing the best speech from Donnie Brasco. | Estoy dando el mejor discurso de Donnie Brasco. |
-Or actually, | O en realidad, 
-ten of me are doing the best speech from Donnie Brasco. | diez de mí están haciendo el mejor discurso de Donnie Brasco. |
-What's up? | ¿Qué sucede? | 
-Get it together, man. Okay? | Consíguelo, hombre. ¿Okey? |
-So the store was hit about two hours ago. | Así que la tienda fue asaltada hace unas dos horas. |
-They took mostly tablets,laptops, and cameras. | Se llevaron principalmente tabletas, computadoras portátiles y cámaras. |
-whoever had access to the store. | quienquiera que tuviera acceso a la tienda. |
-I'd also like to apologize for my partner. | También me gustaría disculparme por mi pareja. |
-His parents didn't give him enough attention. | Sus padres no le prestaron suficiente atención. |
-I already solved the case. | Ya resolví el caso. |
-We're looking for three white males, | Estamos buscando tres hombres blancos, |
-one of whom has sleeve tats on both arms. | uno de los cuales tiene tatuajes de manga en ambos brazos. |
+Formal Greetings | Informal greetings
+Hello mary! | Hi!
+hello | hey!
+how are you | what's up?
+Good morning | howdy!
+good afternoon | 
+good evening | 
+what are you doing? |
+it's nice to meet you  |
+how is it going ? |
+how are you doing ? |  
+good to see go you |
+how do you do?
+it is a pleasure to meet you |
+nice to meet you |
 
-Brooklyn Nine-nine | E2
+
+formal and informal greetings  | a
 ------------- | -------------
-Ah, Captain. You're at my desk. | Capitán. Estás en mi escritorio.
-1- Just what I wanna see | Justo lo que quiero ver
-first thing in the morning. | La primera cosa en la mañana.
-You're three minutes late, | Llegas tres minutos tarde
-Not my fault. I had a plumbing problem. | No es mi culpa. Tuve un problema de plomería.
-Which reminds me, I'm gonna need | Lo que me recuerda, voy a necesitar
-a new departmentally issued phone. | un nuevo teléfono emitido por el departamento.
-Oh, come on, really? I'm a few minutes late, | Oh, vamos, ¿de verdad? llego unos minutos tarde,
-so you're gonna call me out in front of everyone? | entonces me vas a llamar ¿en frente de todos?
-Good idea. Everyone? | Buena idea. ¿Todo el mundo?
-Okay, fine. I was three minutes late. | Bien vale. Llegué tres minutos tarde.
-I'm sorry for doing one thing wrong. | lo siento por hacer una cosa mal
-Oh, it's more than one thing. | - Oh, es más de una cosa.
-Let's start with the Kristov murder. | Empecemos con el asesinato de Kristov.
-It was an amazing solve. | Fue una solución increíble.
-I got him to confess in 20 minutes. | Logré que confesara en 20 minutos.
-You also mislabeled the evidence, | También te equivocaste la evidencia,
-so that confession is worthless | entonces esa confesión es inútil
-Sir, with all due respect, I don't need backup. | Señor, con todo respeto, No necesito respaldo.
-We? You're coming with me? | ¿Nosotros? ¿Vienes conmigo?
-That's a good idea, sergeant. We'll take the van. | Esa es una buena idea, sargento. Cogeremos la furgoneta.
-'Cause my wife doesn't like it either. | porque mi esposa tampoco le gusta
+How are ya? |
+what's new? | |
+what's going on ? |
+how are things? |
+how is everything? |
+how's life? |
+long time no see! |
+
+
+17.Practice: jobs and personality
+
+Practice: jobs and personality | a
+------------- | -------------
+Review the verb to be forms and the characteristics of personality.|
+1 He es angry |
+2 They are funny |
+3 You are serious |
+4 I am happy |
+5 She is intelligent |
+1 She is a nurse |
+2 He is a dancer |
+3 She is an athlete |
+4 She is a developer |
+5 I am an architect |
+Complete the sentences about jobs using a or an. |
+She is a nourse |
+He is a dancer |
+She is an athlete |
+She is a developer  |            
+I am an architect |   
+
